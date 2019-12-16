@@ -22,7 +22,7 @@ h1 {
     margin-bottom: 1rem;
 }
 
-h2 {
+.jumbo-h2 {
     color: #3a7257;
     margin-bottom: 3rem;
 }
@@ -34,6 +34,7 @@ h2 {
     height: 600px;
     width: 100%;
 }
+
 /******************Section 1*********************/
 .jumbotron {
     background-color: rgba(255, 255, 255, 0.7);
@@ -43,6 +44,13 @@ h2 {
     margin: 0;
     background-position: center;
     margin-top: 50px;
+}
+
+.leaf-logo {
+    width: 100px;
+    height: 100px;
+    padding: 0;
+    margin: 0;
 }
 
 h6 {
@@ -62,14 +70,21 @@ h6 {
     padding: 0;
     margin: 0;
 }
+
+.container-about h4 {
+    margin-bottom: 20px;
+}
+
+.container-about p{
+    padding-bottom: 50px;
+}
+
 .col-about {
     text-align: center;
     margin: 0 auto;
     padding: 200px;
 }
-.container-about p{
-    padding-bottom: 50px;
-}
+
 
 .col-about h3{
     margin-top: 1em;
@@ -89,6 +104,14 @@ h6 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 350px;
  }
 
-/******************Section 3 - about*********************/
+/******************Section 3 - support*********************/
+
+.support-img {
+    background: url("/assets/img/leaf-background.png") no-repeat center center;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
