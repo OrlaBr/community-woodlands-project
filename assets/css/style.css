@@ -29,11 +29,9 @@ h2 {
 
 /******************Background Image*********************/
 .backgroundimg {
-    background-image: url("https://images.immediate.co.uk/production/volatile/sites/4/2018/08/iStock_78579229_XLARGE-2aa4b63.jpg?quality=90&resize=576,247");
+    background: url("/assets/img/tree-fern.jpg") no-repeat center center;
     background-size: cover;
-    background-position: center center;
-    background-repeat: no repeat;
-    height: 100vh;
+    height: 600px;
     width: 100%;
 }
 /******************Section 1*********************/
@@ -69,8 +67,8 @@ h6 {
     margin: 0 auto;
     padding: 200px;
 }
-.col-about p{
-    padding: 50px;
+.container-about p{
+    padding-bottom: 50px;
 }
 
 .col-about h3{
@@ -92,3 +90,5 @@ h6 {
     margin-left: auto;
     margin-right: auto;
  }
+
+/******************Section 3 - about*********************/
