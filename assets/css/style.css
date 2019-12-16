@@ -59,24 +59,36 @@ h6 {
 }
 
 /******************Section 2 - about*********************/
-.bg-row-about {
-    background-color:whitesmoke;
+
+.container-about {
+    padding: 0;
+    margin: 0;
+}
+.col-about {
+    text-align: center;
+    margin: 0 auto;
+    padding: 200px;
+}
+.col-about p{
+    padding: 50px;
 }
 
-.row-table {
-    display: table;
+.col-about h3{
+    margin-top: 1em;
 }
 
-.section-column {
-    display: table-cell;
-    padding: 0 30px 30px;
-    float: none;
+.about-text {
+    text-align: center;
+    margin-top: 50px;
 }
 
-.section-heading {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
-    margin-top: 20px;
-    margin-bottom: 40px;
+.col-img {
+    width: 150px;
+    padding:0;
 }
 
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
