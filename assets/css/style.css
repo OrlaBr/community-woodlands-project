@@ -164,4 +164,49 @@ h6 {
     margin-top: 30px;
 }
 
-/******************Section 3 - support*********************/
+/******************Section 3 - contact*********************/
+
+#contact-us {
+    margin-top: 30px;
+}
+
+.contact-image {
+    background: url(/assets/img/mushroom.jpg) no-repeat center center;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.contact-form {
+    background-color: #5b5299;
+    min-height: 600px; 
+}
+
+.contact-text {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+.contact-text h3 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.contact-text h5 {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact-text p {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-content {
+    margin: 35px;
+}
+
