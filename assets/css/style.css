@@ -210,3 +210,45 @@ h6 {
     margin: 35px;
 }
 
+/******************Footer*********************/
+
+.uppercase {
+    text-transform: uppercase;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.general-sub {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+footer {
+    background-color: #1c440a;
+    color: white;
+    min-height: 120px;
+    text-align: center;
+}
+
+.inline-block {
+    display: inline-block;
+    font-size: 12px;
+    text-align: center;
+}
+
+
+
+.social-links i {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links i:hover {
+    background-color:brown;
+}
