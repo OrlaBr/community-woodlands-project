@@ -66,49 +66,41 @@ h6 {
 
 /******************Section 2 - about*********************/
 
-.container-about {
-    padding: 0;
-    margin: 0;
-}
-
-.container-about h4 {
-    margin-bottom: 10px;
-}
-
-.container-about p{
-    padding-bottom: 50px;
-}
-
 .about-image {
-    margin: 0 auto;
-}
-.col-about {
-    text-align: center;
-    margin: 0 auto;
-    padding: 200px;
+    background-color:antiquewhite;
+    background-size: cover;
+    min-height: 600px;
 }
 
-
-.col-about h3{
-    margin-top: 1em;
+.contact-form {
+    background-color: #5b5299;
+    min-height: 600px; 
 }
 
 .about-text {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.about-text h3 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
     text-align: center;
-    margin-top: 50px;
 }
 
-.col-img {
-    width: 150px;
-    padding:0;
+.about-text h5 {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
-.center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 350px;
- }
+.about-text p {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
 
 /******************Section 3 - support*********************/
 
