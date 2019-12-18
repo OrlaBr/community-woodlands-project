@@ -32,7 +32,7 @@ h1 {
 }
 
 .jumbo-h2 {
-    color: #3a7257;
+    color: #2e5b45;
     margin-bottom: 3rem;
 }
 
@@ -43,7 +43,9 @@ h1 {
     text-align: center;
     margin: 0;
     background-position: center;
-    margin-top: 50px;
+    margin: 0 auto;
+    margin-top: 30px;
+
 }
 
 .leaf-logo {
@@ -65,42 +67,53 @@ h6 {
 }
 
 /******************Section 2 - about*********************/
+#about-us {
+    padding: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
 
 .about-image {
     background-color:antiquewhite;
     background-size: cover;
     min-height: 600px;
+    background: url("/assets/img/moss.jpg") no-repeat center center;
 }
 
-.contact-form {
-    background-color: #5b5299;
-    min-height: 600px; 
+.about-us-text {
+    min-height: 400px; 
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .about-text {
     margin-top: 30px;
     margin-left: 30px;
+    text-align: center;
 }
 
 .about-text h3 {
-    color: white;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 30px;
     text-align: center;
 }
 
 .about-text h5 {
-    color: white;
     text-align: center;
     margin-bottom: 30px;
 }
 
-.about-text p {
-    color: white;
+.about-us-text p {
     text-align: center;
-    margin-bottom: 30px;
+    padding-top: 20px;
 }
 
+.support-info {
+
+}
 
 /******************Section 3 - support*********************/
 
@@ -118,7 +131,9 @@ h6 {
     font-weight: 300;
 }
 
-
+.text-highlight {
+    color: #1c440a;
+}
 .circle-container {
     width: 125px;
     height: 125px;
