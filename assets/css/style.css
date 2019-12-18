@@ -14,6 +14,15 @@ body html {
     margin:0;
 }
 
+/******************Background Image*********************/
+.backgroundimg {
+    background: url("/assets/img/tree-fern.jpg") no-repeat center center;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+/******************Section 1*********************/
 h1 {
     font-family: 'Montserrat', sans-serif;
     color: #2e5b45;
@@ -27,15 +36,6 @@ h1 {
     margin-bottom: 3rem;
 }
 
-/******************Background Image*********************/
-.backgroundimg {
-    background: url("/assets/img/tree-fern.jpg") no-repeat center center;
-    background-size: cover;
-    height: 600px;
-    width: 100%;
-}
-
-/******************Section 1*********************/
 .jumbotron {
     background-color: rgba(255, 255, 255, 0.7);
     height: 500px;
@@ -72,7 +72,7 @@ h6 {
 }
 
 .container-about h4 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .container-about p{
@@ -121,8 +121,9 @@ h6 {
 
 .support-img h4 {
     text-align: center;
-    padding: 30px;
-    font-weight: 550;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 300;
 }
 
 
