@@ -35,7 +35,13 @@ nav .navbar .fixed-top {
 }
 
 /******************Section 1*********************/
+#home div .jumbotron {
+    margin-top: 30px;
+}
 
+#home div .jumbotron row {
+    margin-top: 30px;
+}
 
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -69,6 +75,7 @@ div row #about-us {
     height: 100px;
     padding: 0;
     margin: 0;
+    margin-top: 30px;
 }
 
 h6 {
@@ -140,14 +147,16 @@ h6 {
 
 .support-img h4 {
     text-align: center;
-    padding-top: 20px;
     padding-bottom: 10px;
     font-weight: 300;
+    margin-top: 30px;
+    margin-bottom: 30px
 }
 
 .support-info {
     display: inline-block;
     margin: auto;
+    padding-top: 20px;
 }
 
 .text-highlight {
@@ -193,10 +202,6 @@ h6 {
 
 /******************Section 3 - contact*********************/
 
-#contact-us {
-    margin-top: 30px;
-}
-
 .contact-image {
     background: url(/assets/img/mushroom.jpg) no-repeat center center;
     background-size: cover;
@@ -210,7 +215,7 @@ h6 {
 
 
 .contact-text {
-    margin-top: 30px;
+    margin-top: 60px;
     margin-left: 30px;
 }
 
