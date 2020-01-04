@@ -127,10 +127,10 @@ Research from community websites include:
 
 
 Coding Tutorilas:
-- [Code Institute](https://codeinstitute.net), [YouTube Tutorials](https://www.youtube.com)eg mmtuts, Traversy Media,Academind
+- [Code Institute](https://codeinstitute.net), [YouTube Tutorials](https://www.youtube.com) eg mmtuts, Traversy Media, Academind
 
-Github,Gitpod and Markup Tutorials:
-- [Code Institute](https://codeinstitute.net),Various via [Google](https://www.youtube.com) eg[Github Help](https://help.github.com/en),[Git SCM](https://git-scm.com/doc)
+Github, Gitpod and Markup Tutorials:
+- [Code Institute](https://codeinstitute.net),Various via [Google](https://www.youtube.com) eg [Github Help](https://help.github.com/en), [Git SCM](https://git-scm.com/doc)
 
 - - -
 
