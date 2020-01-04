@@ -42,9 +42,9 @@ The main function of the website was to create a visual presence online for a lo
      - Support and connect with the project, through information and a contact form
      - Knowledge about the project through the blog
      - Deliberate color scheme, using the same greens and purples that could be found in a few of the images. Eg moss and mushrooms, trees and bluebells.
-     - Mockups created using [Canva](https://www.canva.com/)
-          - mobile mockup first,
-          - desktop version
+     - Mockups created using [Canva](https://www.canva.com/), with Bootstrap 'mobile first' in mind
+          - [mobile mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/cdcw-desktop-mockup.pdf)
+          - [desktop mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/cdcw-desktop-mockup.pdf)
  - - -
  - *Surface Plane*:  Using Canva as a mock up tool, I was able to create a very accurate depiction of what the final website would look like, the colour schemes, placement, colours and fonts. I also decided to use font awesome icons, as these are now universally known. I also revised the text, to be included in the final web design. Although the mock-up isn't exactly the same as the final version of the website, I made small changes along the way, in order to create a more fluid website. Such as making the navigation stick, as I found in the desktop version, it took too long to scroll down and back up again.
  
@@ -98,7 +98,7 @@ The main function of the website was to create a visual presence online for a lo
 ![mock up samples of website on different browsers and phones](https://github.com/OrlaBr/community-woodlands-project/blob/master/browser-testing.jpg 'Mock-up')
 
 ## Deployment
-My website was developed using `Gitpod` and hosted using `Github`, deployed directly from the master branch. Regular changes were made and all updates were then committed to the master branch. The first or home page is called `index.html`, as servers expect index.html to be the name of the main file of a website folder. An assets folder was then created, to include the CSS stylesheet and all the images used on the site. Throughout the design and implementation of the website I kept notes in Google Docs, which were to come in useful when writing the ReadMe page. I then cross referenced the Read Me page and the website, working through the sections, eg UX, UI, testing, validation, correcting errors when I came across them.
+My website was developed using `Gitpod` and hosted using `Github`, generated from a template created by the Code Instutute, and then deployed directly from the master branch. Regular changes were made and all updates were then committed to the master branch. The first or home page is called `index.html`, as servers expect index.html to be the name of the main file of a website folder. An assets folder was then created, to include the CSS stylesheet and all the images used on the site. Throughout the design and implementation of the website I kept notes in Google Docs, which were to come in useful when writing the ReadMe page. I then cross referenced the Read Me page and the website, working through the sections, eg UX, UI, testing, validation, correcting errors when I came across them.
 
  
 ## Installing a cloned repository
