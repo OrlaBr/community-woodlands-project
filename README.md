@@ -1,6 +1,6 @@
 # Corca Dhuibhne Community Woodlands
 
-![landing page of website](https://github.com/OrlaBr/community-woodlands-project/blob/master/corcadhuibhne.jpg 'Landing page')
+![landing page of website](https://github.com/OrlaBr/community-woodlands-project/blob/master/corcadhuibhne-sm.jpg 'Landing page')
 
 The aim of this website is to create a modern visual presence online for a new community based project ‘Corca Dhuibhne Community Woodlands’. The goal is to create awareness of the overall project itself and to get actively people involved, in some way.
 
@@ -80,6 +80,8 @@ Peer research - I reserched a number of similar community projects and websites,
 `HTML validated using https://validator.w3.org/`
 - Validate CSS 
 `CSS validated using http://jigsaw.w3.org/css-validator/`
+
+![mock up samples of website on different browsers and phones](https://github.com/OrlaBr/community-woodlands-project/blob/master/browser-testing.jpg 'Mock-up')
 
 ## Deployment\\
 ` describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
