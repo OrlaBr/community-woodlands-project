@@ -125,19 +125,14 @@ Orla Breslin 2020
 Research from community websites include:
 - [Community Woodlands](www.communitywoodlands.org), [Woodland League](http://www.woodlandleague.org), [Glengarry](https://www.glengarry.org.uk/)
 
-1._Coding tutorials_:
-    -  [Code Institute](https://codeinstitute.net)
-    - [YouTube Tutorials](https://www.youtube.com):
-        - mmtuts
-        - Traversy Media
-        - Academind
-2. _Github and Gitpod tutorials_:
-    - [Code Institute](https://codeinstitute.net)
-    - Various via [Google](https://www.youtube.com)
-        - [Github Help](https://help.github.com/en)
-        - [Git SCM](https://git-scm.com/doc)
-        - Academind
 
+Coding Tutorilas:
+- [Code Institute](https://codeinstitute.net), [YouTube Tutorials](https://www.youtube.com)eg mmtuts, Traversy Media,Academind
+
+Github,Gitpod and Markup Tutorials:
+- [Code Institute](https://codeinstitute.net),Various via [Google](https://www.youtube.com) eg[Github Help](https://help.github.com/en),[Git SCM](https://git-scm.com/doc)
+
+- - -
 
 :top: [Back to top](#corca-dhuibhne-community-woodlands)
 
