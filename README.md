@@ -23,7 +23,7 @@ The website has a dual purpose. It was created for a new local community group t
 The main function of the website was to create a visual presence online for a local community group, ‘Corca Dhuibhne Community Woodlands’, so they can showcase their work to date, engage with the general public to become involved, and also promote activities and events they are running.
 - - -
  - *Strategy Plane*:  The objective is to create a feel-good visually appealing custom website with calls to action to engage the public to become involved in the project as either active or passive participants. The overall impression of this woodlands website, is that of greenery, vitality, reflecting the goal of the community group, that is to create a community run woodland for everyones benefit. 
-The predominant users of the site are general public, who maybe have heard of the project word of mouth or have heard about the project already through local media or social media sites. The initial impression is of greenery and vitality, to give the impression of a vibrant active community group, reflecting their goals to create a beautiful communal woodands.\\
+The predominant users of the site are general public, who maybe have heard of the project word of mouth or have heard about the project already through local media or social media sites. The initial impression is of greenery and vitality, to give the impression of a vibrant active community group, reflecting their goals to create a beautiful communal woodands.
 Also, secondary yet vital users, are partnering organisations and funders. Developing a modern professional looking website, will in turn help with future funding applications.  
 Peer research - I reserched a number of similar community projects and websites, and found the websites to be very plain and content heavy. So I decided to keep the content to a minimum and introduce more visually stunning pictures, to evoke more feeling and reaction to the idea of a community woodlands. Keeping the written content to a minimum also reduces the amout of time the website admin need to update the site, reflecting the importance of their time as volunteers who prefer to be outside. Updates can be added regularily to the all important newsletter, the blog and to social media sites. The responsibility to maintain the website and social media channels is met with reluctance  yet it is of vital importance to community groups looking for funding. Funding bodies, like to be visually represented. 
 - - -
@@ -44,6 +44,8 @@ Peer research - I reserched a number of similar community projects and websites,
 
 #### Features Left to Implement
 
+ - Add pop up message when people have clicked on submit in contact form
+ - Add a pop up modal to encourage people to sign up to newsletter
  - Development of the blog to include archives and a search function
  - Development of the footer to include future sponsors and partners section
  
@@ -60,23 +62,28 @@ Peer research - I reserched a number of similar community projects and websites,
 - Repl.it - to practice elements and sections of coding before adding to Gitpod
 - Canva - to create a detailed wireframe
  
-## Testing\\
+## Testing
 
-- Proofreading  
-- Checking Links 
-- Validate form\\
-  ```Go to the "Contact Us" page
-    Try to submit the empty form and verify that an error message about the required fields appears
-    Try to submit the form with an invalid email address and verify that a relevant error message appears
-    Try to submit the form with all inputs valid and verify that a success message appears.```
-- Metatags inside the head tags 
+- Proofreading - all text added to a Google doc for spelling and grammer check. Verified by another person.. 
+- Checking Links - tested all links including: relative, absolute, text, bookmark, e-mail, external  
+- Validate form - 
+  ```*Contact Us* Form
+    Submitted details in the empty form to verify that an error message about the required fields appears.
+    Submitted the form with an invalid email address to verify that a relevant error message appears
+    Submitted the form with all inputs valid and verify that a success message appears.```
+- SEO - Metatags inside the head tags 
 - Accessibility
-- Different Browsers 
- `mention in this section how your project looks and works on different browsers and screen sizes.`
-- Validate HTML wwww.validator.w3.org
-- Validate CSS jigsaw.we3
-- Bug and Problems
-   `mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them   yet.`
+- Different Browsers : Testing using Chrome Dev Toos, Firebox Firebug, [Browserling](https://www.browserling.com), [Browsershots](http://browsershots.org/)
+
+`|    Chrome    |    Firefox    |    Safari   |    Opera   |   
+  -------------- --------------  ------------- ------------- 
+ |    [x]       |     [x]       |    [x]       |    [x]    |   
+  -------------- --------------  ------------- ------------- 
+ `
+- Validate HTML
+`HTML validated using https://validator.w3.org/`
+- Validate CSS 
+`CSS validated using http://jigsaw.w3.org/css-validator/`
 
 ## Deployment\\
 ` describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
