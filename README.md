@@ -66,20 +66,16 @@ Peer research - I reserched a number of similar community projects and websites,
 
 - Proofreading - all text added to a Google doc for spelling and grammer check. Verified by another person.. 
 - Checking Links - tested all links including: relative, absolute, text, bookmark, e-mail, external  
-- Validate form - 
-  ```*Contact Us* Form
-    Submitted details in the empty form to verify that an error message about the required fields appears.
+- Validate form - *Contact Us* Form
+  ` Submitted details in the empty form to verify that an error message about the required fields appears.
     Submitted the form with an invalid email address to verify that a relevant error message appears
-    Submitted the form with all inputs valid and verify that a success message appears.```
+    Submitted the form with all inputs valid and verify that a success message appears.`
 - SEO - Metatags inside the head tags 
 - Accessibility
 - Different Browsers : Testing using Chrome Dev Toos, Firebox Firebug, [Browserling](https://www.browserling.com), [Browsershots](http://browsershots.org/)
+Chrome | Firefox | Safari | Opera |
+✔  | ✔ | ✔
 
-`|    Chrome    |    Firefox    |    Safari   |    Opera   |   
-  -------------- --------------  ------------- ------------- 
- |    [x]       |     [x]       |    [x]       |    [x]    |   
-  -------------- --------------  ------------- ------------- 
- `
 - Validate HTML
 `HTML validated using https://validator.w3.org/`
 - Validate CSS 
