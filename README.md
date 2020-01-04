@@ -16,7 +16,7 @@ The aim of this website is to create a modern visual presence online for a new c
 - [Licence](#licence)
 - [Acknowledgements](#Acknowledgements)
 
-## Description
+## Description :black_nib:
 The website has a dual purpose. It was created for a new local community group to use, but it also deploys all my course learning to date with the Code Institute. The elements I used in creating this website, are all practical techniques I have been learning,  working through the User Centric Front End Development modules of the Full Stack Developer Bootcamp.
 
 ## UX  :busts_in_silhouette:
@@ -48,7 +48,7 @@ The main function of the website was to create a visual presence online for a lo
  - - -
  - *Surface Plane* :seedling:  Using Canva as a mock up tool, I was able to create a very accurate depiction of what the final website would look like, the colour schemes, placement, colours and fonts. I also decided to use font awesome icons, as these are now universally known. I also revised the text, to be included in the final web design. Although the mock-up isn't exactly the same as the final version of the website, I made small changes along the way, in order to create a more fluid website. Such as making the navigation stick, as I found in the desktop version, it took too long to scroll down and back up again.
  
-## Features  :high_bright:
+## Features :ledger:
 
 #### Existing Features
 
@@ -56,14 +56,14 @@ The main function of the website was to create a visual presence online for a lo
 - *Contact Us Form*- The website goal is to try to drum up public support for the community group, and inviting people to support in a number of ways was very important. By using a generic contact form it was inviting the user to identify ways they could themselves help, rather than a simple call for money or action. This reflects the long term goals of the project, rather than a simply ‘gofund me’ attitude
 - *Blog* - Blogs are very undervalued elements in a website, and especially for a community group, can increase participation hugely. The blog was developed on a card system, with the visual element the biggest, to evoke more feeling and anticipation in the user.\\
 
-#### Features Left to Implement
+##### Features Left to Implement
 
  - Add pop up message when people have clicked on submit in contact form
  - Add a pop up modal to encourage people to sign up to newsletter
  - Development of the blog to include archives and a search function
  - Development of the footer to include future sponsors and partners section
  
-## Technologies Used
+## Technologies Used :paperclip:
 
 - HTML - HTML5
 - CSS - CSS3
@@ -101,7 +101,7 @@ The main function of the website was to create a visual presence online for a lo
 My website was developed using `Gitpod` and hosted using `Github`, generated from a template created by the Code Instutute, and then deployed directly from the master branch. Regular changes were made and all updates were then committed to the master branch. The first or home page is called `index.html`, as servers expect index.html to be the name of the main file of a website folder. An assets folder was then created, to include the CSS stylesheet and all the images used on the site. Throughout the design and implementation of the website I kept notes in Google Docs, which were to come in useful when writing the ReadMe page. I then cross referenced the Read Me page and the website, working through the sections, eg UX, UI, testing, validation, correcting errors when I came across them.
 
  
-### Installing a cloned repository
+##### Installing a cloned repository
 
 1. Make sure you have these installed
    - [node.js](http://nodejs.org/)
