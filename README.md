@@ -43,8 +43,8 @@ The main function of the website was to create a visual presence online for a lo
      - Knowledge about the project through the blog
      - Deliberate color scheme, using the same greens and purples that could be found in a few of the images. Eg moss and mushrooms, trees and bluebells.
      - Mockups created using [Canva](https://www.canva.com/), with Bootstrap 'mobile first' in mind
-          - [mobile mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/ux/cdcw-desktop-mockup.pdf)
-          - [desktop mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/ux/cdcw-desktop-mockup.pdf)
+          - [mobile mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/cdcw-mobile-mockup.pdf)
+          - [desktop mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/cdcw-desktop-mockup.pdf)
  - - -
  - *Surface Plane* :seedling:  Using Canva as a mock up tool, I was able to create a very accurate depiction of what the final website would look like, the colour schemes, placement, colours and fonts. I also decided to use font awesome icons, as these are now universally known. I also revised the text, to be included in the final web design. Although the mock-up isn't exactly the same as the final version of the website, I made small changes along the way, in order to create a more fluid website. Such as making the navigation stick, as I found in the desktop version, it took too long to scroll down and back up again.
  
@@ -100,7 +100,12 @@ The main function of the website was to create a visual presence online for a lo
 ![mock up samples of website on different browsers and phones](https://github.com/OrlaBr/community-woodlands-project/blob/master/browser-testing.jpg 'Mock-up')
 
 ## Deployment :bookmark_tabs:
-My website was developed using `Gitpod` and hosted using `Github`, generated from a template created by the Code Instutute, and then deployed directly from the master branch. Regular changes were made and all updates were then committed to the master branch. The first or home page is called `index.html`, as servers expect index.html to be the name of the main file of a website folder. An assets folder was then created, to include the CSS stylesheet and all the images used on the site. Throughout the design and implementation of the website I kept notes in Google Docs, which were to come in useful when writing the ReadMe page. I then cross referenced the Read Me page and the website, working through the sections, eg UX, UI, testing, validation, correcting errors when I came across them.
+My website was developed using `Gitpod` and hosted using `Github`, generated from a template created by the Code Instutute, and then deployed directly from the master branch. Regular changes were made and all updates were then committed to the master branch. The first or home page is called `index.html`, as servers expect index.html to be the name of the main file of a website folder. An assets folder was then created, to include the CSS stylesheet and all the images used on the site. I proceeded to work on sections, commiting as I went.
+Changes made:
+Originally the heading wasnt fixed but I had issues with access to navigating when scrolling down the page, so I fixed the navbar to the top. This caused issues with the first section, so I had to adjust the margin and paddings to fit. The 'about' and 'contact' sections were divided into 2 columns on both the mobile and desktop mockups, but after building, I thought the mobile version looked too cramped as 2 columns, so I decided to switch to no columns on mobile view.
+Throughout the design and implementation of the website I kept notes in Google Docs, which were to come in useful when writing the ReadMe page. I then cross referenced the Read Me page and the website, working through the sections, eg UX, UI, testing, validation, correcting errors when I came across them.
+I added the pdfs of the mockups after writing the readme, uploading them to the directory from github rather than git pod. I feel they should have been loaded through gitpod, and put in their own UX folder.
+
 
  
 ##### Installing a cloned repository
