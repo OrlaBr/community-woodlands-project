@@ -30,17 +30,21 @@ nav .navbar .fixed-top {
 .backgroundimg {
     background: url("/assets/img/tree-fern.jpg") no-repeat center center;
     background-size: cover;
-    height: 600px;
+    height: 800px;
     width: 100%;
 }
 
 /******************Section 1*********************/
-#home div .jumbotron {
-    margin-top: 30px;
+
+.row1 {
+    margin-top: 50px;
+    margin-top: 50px;
 }
 
+
 #home div .jumbotron row {
-    margin-top: 30px;
+    margin-top: 100px;
+    padding-top: 100px;
 }
 
 h1 {
@@ -64,6 +68,7 @@ h1 {
     margin: 0;
     background-position: center;
     margin: 0 auto; 
+    margin-top: 60px;
 }
 
 div row #about-us {
@@ -326,6 +331,10 @@ footer {
     display: inline-block;
     font-size: 12px;
     text-align: center;
+}
+
+.inline-block a {
+    color: #b286ff;
 }
 
 .social-links li a i {
