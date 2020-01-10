@@ -26,11 +26,11 @@ The main function of the website was to create a visual presence online for a lo
     - User 1: the general public, who may have heard of the project word of mouth or have heard about the project already through local media or social media sites.
     - User 2 : partnering organisations and funders. Developing a modern professional looking website, will in turn help with future funding applications.  
     - Research: community websites tend to be very plain and content heavy. So focus was on minimal content, visually stunning pictures, to evoke more feeling and reaction. Updates can be added regularly to the all important newsletter, the blog and social media sites.
-     - Notes: The responsibility to maintain the website and social media channels is met with reluctance  yet it is of vital importance to community groups looking for funding. Funding bodies, like to be visually represented.
+     - Notes: The responsibility to maintain the website and social media channels is usually met with reluctance among community groups  yet it is of vital importance particularily for groups looking for funding. Funding bodies, like to be visually represented, to be able to add logos, etc.
 - - -
  - *Scope Plane* :computer: Creation of a MVW, minimum viable website with mixed content that has the potential to grow.
-     - Needs: public information about the role and function of the community group. I decided on a simple scroll down website to reflect modern trends and designed the website using bootstrap mobile first’ theory
-     - Important features are the
+     - Needs: public information about the role and function of the community group. I decided on a simple scroll down website to reflect modern trends and designed the website using bootstrap mobile 'first’ theory
+     - Important features:
           - contact form,
           - access to a newsletter-sign up,
           - active blog to showcase projects and activities.
@@ -43,8 +43,8 @@ The main function of the website was to create a visual presence online for a lo
      - Knowledge about the project through the blog
      - Deliberate color scheme, using the same greens and purples that could be found in a few of the images. Eg moss and mushrooms, trees and bluebells.
      - Mockups created using [Canva](https://www.canva.com/), with Bootstrap 'mobile first' in mind
-          - [mobile mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/cdcw-desktop-mockup.pdf)
-          - [desktop mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/cdcw-desktop-mockup.pdf)
+          - [mobile mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/ux/cdcw-desktop-mockup.pdf)
+          - [desktop mockup](https://github.com/OrlaBr/community-woodlands-project/blob/master/ux/cdcw-desktop-mockup.pdf)
  - - -
  - *Surface Plane* :seedling:  Using Canva as a mock up tool, I was able to create a very accurate depiction of what the final website would look like, the colour schemes, placement, colours and fonts. I also decided to use font awesome icons, as these are now universally known. I also revised the text, to be included in the final web design. Although the mock-up isn't exactly the same as the final version of the website, I made small changes along the way, in order to create a more fluid website. Such as making the navigation stick, as I found in the desktop version, it took too long to scroll down and back up again.
  
@@ -75,6 +75,8 @@ The main function of the website was to create a visual presence online for a lo
 *Other web applications used:*
 - Repl.it - to practice elements and sections of coding before adding to Gitpod
 - Canva - to create a detailed wireframe
+- Google Fonts - sytlesheet linked to customize fonts
+- Font Awesome - stylesheet linked to custimize icons
  
 ## Testing  :wrench:
 
