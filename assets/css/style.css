@@ -28,7 +28,7 @@ nav .navbar .fixed-top {
 
 /******************Background Image*********************/
 .backgroundimg {
-    background: url("/assets/img/tree-fern.jpg") no-repeat center center;
+    background: url("../img/tree-fern.jpg") no-repeat center center;
     background-size: cover;
     height: 800px;
     width: 100%;
@@ -107,7 +107,7 @@ h6 {
     background-color:antiquewhite;
     background-size: cover;
     min-height: 600px;
-    background: url("/assets/img/moss.jpg") no-repeat center center;
+    background: url("../img/moss.jpg") no-repeat center center;
 }
 
 .about-us-text {
@@ -144,7 +144,7 @@ h6 {
 /******************Section 3 - support*********************/
 
 .support-img {
-    background: url("/assets/img/leaf-background.png") no-repeat center center;
+    background: url("../img/leaf-background.png") no-repeat center center;
     background-size: cover;
     height: 125%;
     width: 100%;
@@ -178,19 +178,19 @@ h6 {
     margin: 0 auto;
 }
 .circle-cover-bg {
-    background: url(/assets/img/child.png) no-repeat center center;
+    background: url("../img/child.png") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 .circle-cover-bg2 {
-    background: url(/assets/img/family-in-woods.png) no-repeat center center;
+    background: url("../img/family-in-woods.png") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 .circle-cover-bg3 {
-    background: url(/assets/img/bluebells.png) no-repeat center center;
+    background: url("../img/bluebells.png") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -208,7 +208,7 @@ h6 {
 /******************Section 3 - contact*********************/
 
 .contact-image {
-    background: url(/assets/img/mushroom.jpg) no-repeat center center;
+    background: url("../img/mushroom.jpg") no-repeat center center;
     background-size: cover;
     min-height: 600px;
 }
