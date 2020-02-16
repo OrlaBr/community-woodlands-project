@@ -3,6 +3,8 @@
 ![landing page of website](https://github.com/OrlaBr/community-woodlands-project/blob/master/corcadhuibhne-sm.jpg 'Landing page')
 
 The aim of this website is to create a modern visual presence online for a new community based project :herb:‘Corca Dhuibhne Community Woodlands’. The goal is to create awareness of the overall project itself and to get people involved, in some way.
+YOu can view the deployed website here: https://orlabr.github.io/community-woodlands-project/
+
 
 ## Table of Contents
 - [Description](#description)
@@ -16,10 +18,11 @@ The aim of this website is to create a modern visual presence online for a new c
 - [Licence](#licence)
 - [Acknowledgements](#Acknowledgements)
 
-## Description :black_nib:
+:black_nib:
+## Description
 The website has a dual purpose. It was created for a new local community group to use, but it also deploys all my course learning to date with the Code Institute. The elements I used in creating this website, are all practical techniques I have been learning,  working through the User Centric Front End Development modules of the Full Stack Developer Bootcamp.
 
-## UX  :busts_in_silhouette:
+## UX
 The main function of the website was to create a visual presence online for a local community group, :herb: Corca Dhuibhne Community Woodlands, so they can showcase their work to date, engage with the general public to become involved, and also promote activities and events they are running.
 - - -
  - *Strategy Plane*  :deciduous_tree:  Create a feel-good visually appealing custom website with calls to action to engage the public to become involved in the project as either active or passive participants. Create the impression of lush greenery and vitality
@@ -48,7 +51,8 @@ The main function of the website was to create a visual presence online for a lo
  - - -
  - *Surface Plane* :seedling:  Using Canva as a mock up tool, I was able to create a very accurate depiction of what the final website would look like, the colour schemes, placement, colours and fonts. I also decided to use font awesome icons, as these are now universally known. I also revised the text, to be included in the final web design. Although the mock-up isn't exactly the same as the final version of the website, I made small changes along the way, in order to create a more fluid website. Such as making the navigation stick, as I found in the desktop version, it took too long to scroll down and back up again.
  
-## Features :ledger:
+:ledger:
+## Features
 
 #### Existing Features
 
@@ -63,7 +67,7 @@ The main function of the website was to create a visual presence online for a lo
  - Development of the blog to include archives and a search function
  - Development of the footer to include future sponsors and partners section
  
-## Technologies Used :paperclip:
+## Technologies Used
 
 - HTML - HTML5
 - CSS - CSS3
@@ -78,7 +82,8 @@ The main function of the website was to create a visual presence online for a lo
 - Google Fonts - sytlesheet linked to customize fonts
 - Font Awesome - stylesheet linked to custimize icons
  
-## Testing  :wrench:
+:wrench:
+## Testing  
 
 - Proofreading - all text added to a Google doc for spelling and grammar check. Verified by another person..
 - Checking Links - tested all links including: relative, absolute, text, bookmark, e-mail, external  
@@ -99,7 +104,7 @@ The main function of the website was to create a visual presence online for a lo
 
 ![mock up samples of website on different browsers and phones](https://github.com/OrlaBr/community-woodlands-project/blob/master/browser-testing.jpg 'Mock-up')
 
-## Deployment :bookmark_tabs:
+## Deployment
 My website was developed using `Gitpod` and hosted using `Github`, generated from a template created by the Code Instutute, and then deployed directly from the master branch. Regular changes were made and all updates were then committed to the master branch. The first or home page is called `index.html`, as servers expect index.html to be the name of the main file of a website folder. An assets folder was then created, to include the CSS stylesheet and all the images used on the site. I proceeded to work on sections, commiting as I went.
 Changes made:
 Originally the heading wasnt fixed but I had issues with access to navigating when scrolling down the page, so I fixed the navbar to the top. This caused issues with the first section, so I had to adjust the margin and paddings to fit. The 'about' and 'contact' sections were divided into 2 columns on both the mobile and desktop mockups, but after building, I thought the mobile version looked too cramped as 2 columns, so I decided to switch to no columns on mobile view.
@@ -119,16 +124,17 @@ I added the pdfs of the mockups after writing the readme, uploading them to the 
 5. Run `$ npm start` to start live preview server
 
 
-## Credits :information_desk_person:
+## Credits
 All text by author: Orla Breslin.
 All photos copyright free from <https://pixabay.com/>.
 All icons copyright free from <https://fontawesome.com/>.
  
-## Licence & Copyright :heavy_check_mark:
+## Licence & Copyright
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 Orla Breslin 2020
  
-## Acknowledgements :mega:
+ :mega:
+## Acknowledgements
 Research from community websites include:
 - [Community Woodlands](www.communitywoodlands.org), [Woodland League](http://www.woodlandleague.org), [Glengarry](https://www.glengarry.org.uk/)
 
