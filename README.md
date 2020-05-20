@@ -3,7 +3,7 @@
 ![landing page of website](https://github.com/OrlaBr/community-woodlands-project/blob/master/corcadhuibhne-sm.jpg 'Landing page')
 
 The aim of this website is to create a modern visual presence online for a new community based project :herb:‘Corca Dhuibhne Community Woodlands’. The goal is to create awareness of the overall project itself and to get people involved, in some way.
-YOu can view the deployed website here: https://orlabr.github.io/community-woodlands-project/
+You can view the deployed website here: https://orlabr.github.io/community-woodlands-project/
 
 
 ## Table of Contents
